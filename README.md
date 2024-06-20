@@ -24,7 +24,7 @@ pip install torch torch_geometric
 ```
 
 ## Run
-Complete the `# TODO`s in `main.py`, then simply run
+Simply run
 
 ```bash
 python main.py
